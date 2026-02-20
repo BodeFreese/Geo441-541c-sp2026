@@ -9,9 +9,6 @@ Bode Freese
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro]([https://colab.research.google.com/drive/1RLbj__thVWhE1FVFFTQcFdJWrrih5LSu?usp=sharing))
+- [First map in ArcGIS Pro]((https://colab.research.google.com/drive/1RLbj__thVWhE1FVFFTQcFdJWrrih5LSu?usp=sharing))
 
 
-## Map Coordinate Basics
-
-- [Understanding map coordinates](https://github.com/jiashenyue/geo441-541/blob/main/map-coordinates-basics/understanding-coordinates.ipynb)
