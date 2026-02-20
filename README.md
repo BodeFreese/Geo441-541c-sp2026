@@ -9,6 +9,6 @@ Bode Freese
 
 ## Basic Mapping
 
-- [First map in ArcGIS Pro]((https://colab.research.google.com/drive/1RLbj__thVWhE1FVFFTQcFdJWrrih5LSu?usp=sharing))
+- [First map in ArcGIS Pro](https://github.com/BodeFreese/Geo441-541c-sp2026/blob/main/Week_01_assignment_BodeFreese.ipynb)
 
 
